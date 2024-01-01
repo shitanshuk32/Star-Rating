@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active {
+  color: #fff700;
+}
+
+.inactive {
+  color: #000000;
+}
